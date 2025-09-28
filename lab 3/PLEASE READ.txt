@@ -1,0 +1,4 @@
+name : eliya badr 
+202303722
+Tuesday section
+my partner is Ranim Tahmoush from Monday's section. I did tkinter and he did pyqt.
