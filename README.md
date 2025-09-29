@@ -3,6 +3,16 @@ Eliya Badr - Ranim Tahmoush <br>
 # Prerequisites
 Python, PyQt, TKinter
 
+# File structure
+
+## PyQt : 
+sms.py <br>
+school_management_system2.py
+
+## lab 3:
+school_management.py <br>
+school_tkinter.py <br>
+
 # How to run
 
 ### 1) Clone the repository
