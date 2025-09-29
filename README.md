@@ -6,7 +6,6 @@ Python, PyQt, TKinter
 # File structure
 
 ## PyQt : 
-sms.py <br>
 school_management_system2.py
 
 ## lab 3:
